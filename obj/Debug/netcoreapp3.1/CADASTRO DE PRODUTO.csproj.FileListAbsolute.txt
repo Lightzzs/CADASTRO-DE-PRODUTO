@@ -1,0 +1,13 @@
+C:\Users\VINICIUS\Desktop\CADASTRO DE PRODUTO\bin\Debug\netcoreapp3.1\CADASTRO DE PRODUTO.exe
+C:\Users\VINICIUS\Desktop\CADASTRO DE PRODUTO\bin\Debug\netcoreapp3.1\CADASTRO DE PRODUTO.deps.json
+C:\Users\VINICIUS\Desktop\CADASTRO DE PRODUTO\bin\Debug\netcoreapp3.1\CADASTRO DE PRODUTO.runtimeconfig.json
+C:\Users\VINICIUS\Desktop\CADASTRO DE PRODUTO\bin\Debug\netcoreapp3.1\CADASTRO DE PRODUTO.runtimeconfig.dev.json
+C:\Users\VINICIUS\Desktop\CADASTRO DE PRODUTO\bin\Debug\netcoreapp3.1\CADASTRO DE PRODUTO.dll
+C:\Users\VINICIUS\Desktop\CADASTRO DE PRODUTO\bin\Debug\netcoreapp3.1\CADASTRO DE PRODUTO.pdb
+C:\Users\VINICIUS\Desktop\CADASTRO DE PRODUTO\obj\Debug\netcoreapp3.1\CADASTRO DE PRODUTO.csprojAssemblyReference.cache
+C:\Users\VINICIUS\Desktop\CADASTRO DE PRODUTO\obj\Debug\netcoreapp3.1\CADASTRO DE PRODUTO.AssemblyInfoInputs.cache
+C:\Users\VINICIUS\Desktop\CADASTRO DE PRODUTO\obj\Debug\netcoreapp3.1\CADASTRO DE PRODUTO.AssemblyInfo.cs
+C:\Users\VINICIUS\Desktop\CADASTRO DE PRODUTO\obj\Debug\netcoreapp3.1\CADASTRO DE PRODUTO.csproj.CoreCompileInputs.cache
+C:\Users\VINICIUS\Desktop\CADASTRO DE PRODUTO\obj\Debug\netcoreapp3.1\CADASTRO DE PRODUTO.dll
+C:\Users\VINICIUS\Desktop\CADASTRO DE PRODUTO\obj\Debug\netcoreapp3.1\CADASTRO DE PRODUTO.pdb
+C:\Users\VINICIUS\Desktop\CADASTRO DE PRODUTO\obj\Debug\netcoreapp3.1\CADASTRO DE PRODUTO.genruntimeconfig.cache
